@@ -23,11 +23,15 @@ This project focuses on detecting clickbait content in YouTube videos by analyzi
 
 ---
 
+## Learning Outcomes 🎓
+1. Enhanced skills in using APIs for data extraction and handling large datasets effectively.  
+2. Gained practical experience in leveraging NLP techniques and transformers for sentiment analysis and classification.
+
+---
+
 ## Plugins and Libraries Used 🛠️
 - `ollama`  
 - `youtube-developer`  
 - `nltk`  
 - `vader`  
 - `TextBlob`  
-
----
